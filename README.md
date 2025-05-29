@@ -60,3 +60,10 @@ I'm a Data Analytics professional with a strong foundation in Big Data technolog
 ---
 
 *Let's connect and collaborate on data-driven projects!*
+
+[![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
