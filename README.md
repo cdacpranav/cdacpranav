@@ -11,9 +11,7 @@ Passionate about solving real-world problems using analytics, data science, and 
 
 ### 📘 Profile Snapshot
 
-| 🔧 Profile Metrics  | 👨‍💻 Experience | ⭐ Stars | 🍴 Forks | 📦 Repos | 🐞 Issues | 🔃 PRs | ✍️ Reviews |
-|---------------------|----------------|---------|----------|----------|-----------|---------|------------|
-| `CCPP ID: PB0090`   | Trainee Engg.  | 6+      | 2+       | 10+      | 0         | 1+      | 3+         |
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
