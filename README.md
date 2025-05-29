@@ -1,119 +1,61 @@
-<!-- Banner Image -->
-<img src="https://yourdomain.com/banner.png" alt="Pranav Harke Banner" align="center" />
+# Hi there 👋, I'm Pranav  
 
-# 👋 Hi there, I'm Pranav Harke
 
-🚀 **Aspiring Data & AI Engineer** | 📊 **Big Data Enthusiast** | 🧠 **Machine Learning Practitioner** | ☁️ **Cloud Explorer** | 🔍 **Deep Learning Aficionado**
+### 🚀 Aspiring Data Scientist 
 
-🎓 Currently pursuing **Post Graduate Diploma in Big Data Analytics (PG-DBDA)** at **C-DAC, Pune**
+#### 🎓 Post Graduate Diploma in Big Data Analytics (PG-DBDA) at C-DAC, Pune  
 
-Passionate about solving real-world problems using analytics, data science, and cutting-edge technologies.
+🚴🏻Passionate about solving real-world problems using python, analytics, data science, and cutting-edge technologies.
 
----
+#### 💡 **Turning data into decisions through clean code where data meets innovation**
 
-## 📘 Profile Snapshot
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 🔍 Currently Working On
-
-- 🧠 **Speech Emotion Detection System** using CNN and MFCC features.
-- 📈 Enhancing data-driven decision systems with **Tableau** & **Python**.
-
----
-
-## 🌱 Currently Learning
-
-- **MLOps** | **Cloud for ML** | **Kafka & Streaming Data Pipelines**
-
----
-
-## 🤝 Looking to Collaborate On
-
-- **Machine Learning Projects**
-- **Real-world Data Analytics Use Cases**
-- **Visualization Dashboards**
-
----
-
-## 💬 Ask Me About
-
-- **Linux** | **Python** | **Big Data** | **Streamlit** | **SQL** | **ML/DL**
-
----
-
-## 📝 Blog/Article Plans
-
-- “How MFCC improves Emotion Recognition”
-- “From Excel to Insights: A Journey in Data Visualization”
-
----
-
-## 📌 Featured Projects
-
-### 🎤 [Speech Emotion Detector](https://github.com/pranavharke/SpeechEmotionDetection)
-
-- **Technologies:** Python, CNN, Librosa, Streamlit
-- **Description:** Classifies speech into Happy, Angry, Neutral, Fear, Sad
-- **Deployment:** Deployed as a web app
-
-### 📊 Tableau Analytics
-
-- **Description:** Built executive dashboards for sales/operational data
-- **Features:** Demonstrates slicing, filtering, trends & drill-down
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
+# 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Analytics](https://img.shields.io/badge/ANALYTICS-grey?style=for-the-badge&logo=chartdotjs&logoColor=lime)
+[![Tableau](https://img.shields.io/badge/TABLEAU-ffffff?style=for-the-badge&logo=tableau&logoColor=blue)](https://public.tableau.com/app/profile/pranavharke/vizzes)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI/ML-ffffff?style=for-the-badge&logo=openai&logoColor=0072C6)
+![Pandas](https://img.shields.io/badge/PANDAS-150505?style=for-the-badge&logo=pandas&logoColor=blue)
+![NumPy](https://img.shields.io/badge/NUMPY-013260?style=for-the-badge&logo=numpy&logoColor=red)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-4B4B4B?style=for-the-badge&logo=coffee&logoColor=white)
+ 
 ## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranavharke&theme=radical" alt="GitHub Streak" />
-</p>
-
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical" alt="Top Languages" width="215"/>
+  <img src="https://streak-stats.demolab.com?user=pranavharke&theme=radical" alt="GitHub Streak" width="300"/>
+</div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavharke&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavharke&theme=radical" alt="GitHub Trophies" />
 </p>
 
----
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranav-harke-84a1581a1)
-📧 Email: harkepranav@gmail.com
 
 ---
+<div align="center" style="background:#0D0D1F;padding:25px;border-radius:20px;width:fit;">
+  <p style="font-size:1.5rem;color:#00ffff;margin-bottom:10px;"><strong>
+  “Crafting code with curiosity, fueled by tea 🍵 </br> and powered by computation 🖥️”
+  </strong></p>
+  <p style="color:#ffff;">– Pranav Harke</p>
+</div>
 
-> 🧠 “The best way to predict the future is to invent it.” – Alan Kay  
-> 🗂️ Let’s collaborate and create solutions that matter!
+## 🔗 Socials
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pranav-harke-84a1581a1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/pranavharke" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2970313.png" alt="HackerRank" width="40"/>
+  </a>
+  <a href="mailto:harkep20@outlook.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/8743/8743964.png" alt="Email" width="40">
+</div>
+
+
+
+#### 🗂️ Let’s collaborate and create solutions that matter!
