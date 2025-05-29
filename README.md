@@ -1,81 +1,87 @@
 <!-- Banner Image -->
-![Banner](https://yourdomain.com/banner.png)
+<img src="https://yourdomain.com/banner.png" alt="banner" align="center" />
 
-# 👋 Hi, I'm Pranav Harke
+# Hi there 👋, I'm Pranav Harke
 
-🎓 **Post Graduate in Big Data Analytics (PG-DBDA)**  
-📍 Pune, Maharashtra, India  
-🔗 [LinkedIn](https://in.linkedin.com/in/pranav-harke-84a1581a1)
-
----
-
-## 🚀 About Me
-
-I'm a Data Analytics professional with a strong foundation in Big Data technologies, Python programming, and machine learning. My academic and professional experiences have equipped me with the skills to analyze complex datasets, develop predictive models, and deploy data-driven solutions.
+🚀 Aspiring Data & AI Engineer | 📊 Big Data | 🧠 Machine Learning | ☁️ Cloud | 🔍 Deep Learning  
+🎓 Currently pursuing Post Graduate Diploma in Big Data Analytics (PG-DBDA) at C-DAC, Pune  
+Passionate about solving real-world problems using analytics, data science, and cutting-edge technologies.
 
 ---
 
-## 🛠️ Technical Skills
+### 📘 Profile Snapshot
 
-- **Programming Languages:** Python, Java
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Big Data Technologies:** Hadoop, Spark
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Linux, Streamlit
+| 🔧 Profile Metrics  | 👨‍💻 Experience | ⭐ Stars | 🍴 Forks | 📦 Repos | 🐞 Issues | 🔃 PRs | ✍️ Reviews |
+|---------------------|----------------|---------|----------|----------|-----------|---------|------------|
+| `CCPP ID: PB0090`   | Trainee Engg.  | 6+      | 2+       | 10+      | 0         | 1+      | 3+         |
 
 ---
 
-## 📂 Projects
+### 🔍 Currently Working On:
+- 🧠 A Speech Emotion Detection system using CNN and MFCC features.
+- 📈 Enhancing data-driven decision systems with Tableau & Python.
 
-### 🎤 Speech Emotion Detection System
-- Developed a system to detect emotions from speech using MFCC features and CNN.
-- Implemented using Python, Librosa, and TensorFlow.
-- Deployed the model as a web application using Streamlit.
+### 🌱 Currently Learning:
+- MLOps | Cloud for ML | Kafka & Streaming Data Pipelines
 
-### 📊 Data Visualization Dashboard
-- Created interactive dashboards to visualize key performance indicators.
-- Utilized Tableau to provide insights into business metrics.
+### 🤝 Looking to Collaborate On:
+- Machine Learning Projects | Real-world Data Analytics use cases | Visualization dashboards
 
----
+### 💬 Ask Me About:
+- Linux | Python | Big Data | Streamlit | SQL | ML/DL
 
-## 🏢 Professional Experience
-
-**Trainee Engineer**  
-*Smruthi Organics Ltd*  
-- Gained hands-on experience with ERP systems and standard operating procedures.
-- Worked on data collection and management for quality assurance processes.
+### 📝 Blog/Article Plans:
+- “How MFCC improves Emotion Recognition”  
+- “From Excel to Insights: A Journey in Data Visualization”
 
 ---
 
-## 📜 Certifications
+### 📌 Featured Projects
 
-- **Python for Data Science** – NPTEL
-- **Data Analytics with Python** – NPTEL
+#### 🎤 [Speech Emotion Detector](https://github.com/pranavharke/SpeechEmotionDetection)
+- Python + CNN + Librosa + Streamlit
+- Classifies speech into Happy, Angry, Neutral, Fear, Sad
+- Deployed as a web app
+
+#### 📊 Tableau Analytics
+- Built executive dashboards for sales/operational data
+- Demonstrates slicing, filtering, trends & drill-down
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+---
+
+### 📈 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavharke&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=pranavharke&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=pranavharke&theme=radical)
 
 ---
 
-## 📫 Contact Me
+### 🏆 GitHub Trophies
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Pranav Harke](https://in.linkedin.com/in/pranav-harke-84a1581a1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pranavharke&theme=radical&column=3&margin-w=15&margin-h=15)
 
 ---
 
-*Let's connect and collaborate on data-driven projects!*
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranav-harke-84a1581a1)  
+📧 Email: harkepranav@gmail.com
+
+---
+
+> 🧠 “The best way to predict the future is to invent it.” – Alan Kay  
+> 🗂️ Let’s collaborate and create solutions that matter!
+
