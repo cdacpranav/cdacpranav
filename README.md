@@ -1,3 +1,6 @@
+<!-- Banner Image -->
+![Banner](https://yourdomain.com/banner.png)
+
 # 👋 Hi, I'm Pranav Harke
 
 🎓 **Post Graduate in Big Data Analytics (PG-DBDA)**  
@@ -52,18 +55,27 @@ I'm a Data Analytics professional with a strong foundation in Big Data technolog
 
 ---
 
+## 📈 GitHub Stats
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavharke&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=pranavharke&theme=radical)
+
+---
+
 ## 📫 Contact Me
 
-- 📧 Email: [harkep20@outlook.com](mailto:harkep20@outlook.com)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [Pranav Harke](https://in.linkedin.com/in/pranav-harke-84a1581a1)
 
 ---
 
 *Let's connect and collaborate on data-driven projects!*
-
-[![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavharke&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
