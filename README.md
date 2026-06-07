@@ -10,7 +10,7 @@
 
 ### About Me
 
-#### 🎓 Post Graduate Diploma in Big Data Analytics (PG-DBDA) at C-DAC, Pune  
+#### 🎓 Post Graduate Diploma in Big Data Analytics at C-DAC, Pune  
 🚴🏻 Passionate about building intelligent, data-driven solutions that solve real-world problems.
 #### 💡 Turning data into decisions through clean code where data meets innovation
 
