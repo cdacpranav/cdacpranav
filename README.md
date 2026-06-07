@@ -10,9 +10,7 @@
 
 ---
 
-### 🚀 Aspiring Data Scientist 
-
-#### 🎓 Post Graduate Diploma in Big Data Analytics (PG-DBDA) at C-DAC, Pune  
+### 🎓 Data Analyst with a PG Diploma in Big Data Analytics from C-DAC, Pune 
 
 🚴🏻Passionate about solving real-world problems using python, analytics, data science, and cutting-edge technologies.
 
