@@ -5,8 +5,6 @@
 **Data Analyst · BI Developer · AI/GenAI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavharke)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/pranavharke/vizzes)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pranavharke)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harkepranav@gmail.com)
 
 </div>
@@ -15,10 +13,13 @@
 
 ### About Me
 
-- 📊 Data Analyst & Technical Consultant with hands-on experience in Power BI, SQL, Python, and AI/GenAI pipelines
-- 🎓 PG Diploma in Big Data Analytics — C-DAC, Pune &nbsp;|&nbsp; B.Tech in Mechanical Engineering
-- 🤖 Building AI-powered solutions using LangChain, FAISS, and LLaMA3
-- 📍 Based in Pune, India &nbsp;|&nbsp; **Open to Data Analyst / Data Scientist roles**
+### 🚀 Aspiring Data Scientist 
+
+#### 🎓 Post Graduate Diploma in Big Data Analytics (PG-DBDA) at C-DAC, Pune  
+
+🚴🏻Passionate about solving real-world problems using python, analytics, data science, and cutting-edge technologies.
+
+#### 💡 **Turning data into decisions through clean code where data meets innovation**
 
 ---
 
@@ -42,6 +43,7 @@
 ---
 
 <div align="center">
+
 
 #### 🤝 Let's Connect!
 *I'm always open to discussing data science, analytics, and career opportunities*
