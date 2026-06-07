@@ -25,6 +25,7 @@
 ## 🛠️ Tech Stack
 
 **Languages & Querying**
+
 ![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
