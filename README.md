@@ -22,9 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Querying**
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,20 +31,13 @@
 [![Tableau](https://img.shields.io/badge/TABLEAU-ffffff?style=for-the-badge&logo=tableau&logoColor=blue)](https://public.tableau.com/app/profile/pranavharke/vizzes)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![AI/ML](https://img.shields.io/badge/AI/ML-ffffff?style=for-the-badge&logo=openai&logoColor=0072C6)
 ![Pandas](https://img.shields.io/badge/PANDAS-150505?style=for-the-badge&logo=pandas&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NUMPY-013260?style=for-the-badge&logo=numpy&logoColor=red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-ffffff?style=for-the-badge&logo=openai&logoColor=0072C6)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black)
-
-**Libraries**
-
-![Pandas](https://img.shields.io/badge/Pandas-150505?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013260?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
 ---
 
