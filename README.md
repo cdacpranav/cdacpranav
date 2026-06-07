@@ -31,17 +31,11 @@
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black)
 
  ---
-<div align="center" style="background:#0D0D1F;padding:25px;border-radius:20px;width:fit;">
-  <p style="font-size:1.5rem;color:#00ffff;margin-bottom:10px;"><strong>
-  “Crafting code with curiosity, fueled by tea 🍵 and powered by computation 🖥️”
-  </strong></p>
-  <p style="color:#ffff;">– Pranav Harke</p>
-</div>
 
 ## 🔗 Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/pranav-harke-84a1581a1" target="_blank">
+  <a href="https://www.linkedin.com/in/pranavharke" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://www.hackerrank.com/pranavharke" target="_blank">
@@ -51,7 +45,14 @@
     <img src="https://cdn-icons-png.flaticon.com/512/8743/8743964.png" alt="Email" width="40">
 </div>
 
+<div align="center">
 
+<div align="center" style="background:#0D0D1F;padding:25px;border-radius:20px;width:fit;">
+  <p style="font-size:1.5rem;color:#00ffff;margin-bottom:10px;"><strong>
+  “Crafting code with curiosity, fueled by tea 🍵 and powered by computation 🖥️”
+  </strong></p>
+  <p style="color:#ffff;">– Pranav Harke</p>
+</div>
 
 #### 🤝 Let's Connect!
 I'm always open to discussing data science, analytics, and career opportunities.
