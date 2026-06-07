@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+### About Me
 
 - 📊 Data Analyst & Technical Consultant with hands-on experience in Power BI, SQL, Python, and AI/GenAI pipelines
 - 🎓 PG Diploma in Big Data Analytics — C-DAC, Pune &nbsp;|&nbsp; B.Tech in Mechanical Engineering
