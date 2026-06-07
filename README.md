@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pranav Harke
+# 👋 Hi, I'm Pranav Harke
 
 **Data Analyst · BI Developer · AI/GenAI Enthusiast**
 
@@ -36,7 +36,6 @@
 ---
 
 <div align="center">
-
 
 #### 🤝 Let's Connect!
 *I'm always open to discussing data science, analytics, and career opportunities*
