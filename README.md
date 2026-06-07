@@ -41,19 +41,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=pranavharke&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
-*Open to Data Analyst · Data Scientist · BI Developer roles — Pune / Mumbai / Remote*
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavharke)
+🤝 Let's Connect!
+*I'm always open to discussing data science, analytics, and career opportunities*
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavharke)
 
 </div>
