@@ -25,21 +25,20 @@
 ## 🛠️ Tech Stack
 
 **Languages & Querying**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**BI & Visualization**
+![Analytics](https://img.shields.io/badge/ANALYTICS-grey?style=for-the-badge&logo=chartdotjs&logoColor=lime)
+[![Tableau](https://img.shields.io/badge/TABLEAU-ffffff?style=for-the-badge&logo=tableau&logoColor=blue)](https://public.tableau.com/app/profile/pranavharke/vizzes)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**AI / ML**
-
+![AI/ML](https://img.shields.io/badge/AI/ML-ffffff?style=for-the-badge&logo=openai&logoColor=0072C6)
+![Pandas](https://img.shields.io/badge/PANDAS-150505?style=for-the-badge&logo=pandas&logoColor=blue)
+![NumPy](https://img.shields.io/badge/NUMPY-013260?style=for-the-badge&logo=numpy&logoColor=red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black)
 
 **Libraries**
 
