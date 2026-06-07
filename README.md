@@ -45,6 +45,7 @@
 
 🤝 Let's Connect!
 *I'm always open to discussing data science, analytics, and career opportunities*
+
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavharke)
 
 </div>
